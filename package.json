@@ -1,7 +1,6 @@
 {
   "name": "projet_meteo_services",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
@@ -10,9 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "axios": "^1.7.7",
-    "dotenv": "^16.4.5",
-    "mqtt": "^5.9.1"
+    "mqtt": "^5.10.1"
   }
 }
+
+
+
